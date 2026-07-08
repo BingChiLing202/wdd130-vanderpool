@@ -1,0 +1,42 @@
+body {
+    background-color: green;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.lol {
+    font-size: 70px;
+    padding: 15px;
+    border: 10px solid white;
+    margin: 50px;
+    background-color:#568ea3;
+    
+}
+
+.lmao {
+    font-size: 50px;
+    padding: 15px;
+    border: 10px solid white;
+    margin: 50px;
+    background-color: #568ea3;
+}
+
+.bingchiling {
+    font-size: 30px;
+    padding: 1px 1px 1px 1px;
+    border: 10px solid white;
+    margin: 50px;
+    background-color: #568ea3;
+}
+
+h1 {
+    text-align: center;
+    padding: 15px;
+    border: 10px solid white;
+    margin: 50px;
+    background-color: #568ea3
+}
